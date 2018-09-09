@@ -1,1 +1,3 @@
-# deep-learning-indaba-2018
+# Deep Learning Indaba 2018
+
+Notes, code and sessions from [Deep Learning Indaba 2018](http://www.deeplearningindaba.com/).
